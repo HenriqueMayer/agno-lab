@@ -13,5 +13,3 @@ agent = Agent(
 agent.print_response(
     "Use your tools to search for the Porto Alegre/Brazil weather forecast for today."
 )
-
-# uv run 1.1.researcher.py
