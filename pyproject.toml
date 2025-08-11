@@ -8,4 +8,5 @@ dependencies = [
     "agno>=1.7.9",
     "groq>=0.31.0",
     "ipykernel>=6.30.1",
+    "tavily-python>=0.7.10",
 ]
